@@ -14,7 +14,7 @@
 	},
 	"dependencies" : {
 		"underscore"   : "1.4.4",
-		"express"      : "3.1.0",
+		"express"      : "4.19.2",
 		"socket.io"    : "0.9.13",
 		"monologue.js" : "0.1.4",
 		"monopost"     : "0.1.2",
